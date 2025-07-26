@@ -1,0 +1,352 @@
+[
+    {
+        "id": 1,
+        "name": "BG MASONE ACTV",
+        "price": 116.000,
+        "img": "/img/PRODUCT_img/BG-MASONE-ACTV-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "JK MACK",
+        "price": 530.100,
+        "img": "/img/PRODUCT_img/JK-MACK.jpg"
+    },
+    {
+        "id": 3,
+        "name": "TUM EAGLES",
+        "price": 100.000,
+        "img": "/img/PRODUCT_img/TUM-EAGLES.jpg"
+    },
+    {
+        "id": 4,
+        "name": "SW OSCAR",
+        "price": 391.500,
+        "img": "/img/PRODUCT_img/SW-OSCAR.jpg"
+
+    },
+    {
+        "id": 5,
+        "name": "BRAC RUNNER 02",
+        "price": 44.000,
+        "img": "/img/PRODUCT_img/BRAC-RUNNER-02-4.jpg"
+
+    },
+    {
+        "id": 6,
+        "name": "T LYRAS 03",
+        "price": 143.000,
+        "img": "/img/PRODUCT_img/T-LYRAS-03.jpg"
+    },
+    {
+        "id": 7,
+        "name": "T DRAFT ACTV 02",
+        "price": 139.500,
+        "img": "./img/PRODUCT_img/T-DRAFT-ACTV-02-1.jpg"
+    },
+    {
+        "id": 8,
+        "name": "LP BIKASH ACTV",
+        "price": 314.100,
+        "img": "/img/PRODUCT_img/LP-BIKASH-ACTV.jpg"
+    },
+    {
+        "id": 9,
+        "name": "BG ARBOR ACTV",
+        "price": 151.200,
+        "img": "/img/PRODUCT_img/BG-ARBOR-ACTV.jpg"
+    },
+    {
+        "id": 10,
+        "name": "CORREDERA 03",
+        "price": 359.100,
+        "img": "/img/PRODUCT_img/CORREDERA-03.jpg"
+    },
+    {
+        "id": 11,
+        "name": "HT AMTRAC 05",
+        "price": 116.000,
+        "img": "/img/PRODUCT_img/HT-AMTRAC-05.jpg"
+    },
+    {
+        "id": 12,
+        "name": "SW GODZILLA BIGGUY",
+        "price": 292.000,
+        "img": "/img/PRODUCT_img/SW-GODZILLA-BIGGUY.jpg"
+    },
+    {
+        "id": 13,
+        "name": "SW GODZILLA TOOG",
+        "price": 156.000,
+        "img": "/img/PRODUCT_img/SW-GODZILLA-TOOG.jpg"
+    },
+    {
+        "id": 14,
+        "name": "SW GODZILLA WINGSTROM",
+        "price": 311.000,
+        "img": "/img/PRODUCT_img/SW-GODZILLA-WINGSTROM.jpg"
+    },
+    {
+        "id": 15,
+        "name": "S DIERE 01",
+        "price": 207.200,
+        "img": "/img/PRODUCT_img/S-DIERE-01.jpg"
+    },
+    {
+        "id": 16,
+        "name": "T MORI ACTVXDND",
+        "price": 170.100,
+        "img": "/img/PRODUCT_img/T-MORI-ACTVXDND.jpg"
+    },
+    {
+        "id": 17,
+        "name": "SW GODZILLA RAWK",
+        "price": 311.200,
+        "img": "/img/PRODUCT_img/SW-GODZILLA-RAWK.jpg"
+    },
+    {
+        "id": 18,
+        "name": "LP DENCE ACTVXDND",
+        "price": 314.100,
+        "img": "/img/PRODUCT_img/LP-DENCE-ACTVXDND.jpg"
+    },
+    {
+        "id": 19,
+        "name": "ST HAZED ACTVXDND",
+        "price": 206.100,
+        "img": "/img/PRODUCT_img/ST-HAZED-ACTVXDND.jpg"
+    },
+    {
+        "id": 20,
+        "name": "MOCHELO 01",
+        "price": 337.500,
+        "img": "/img/PRODUCT_img/MOCHELO-01.jpg"
+    },
+    {
+        "id": 21,
+        "name": "HT KHALIV 04",
+        "price": 95.200,
+        "img": "/img/PRODUCT_img/HT-KHALIV-04.jpg"
+    },
+    {
+        "id": 22,
+        "name": "BRAC STAKE 01",
+        "price": 44.000,
+        "img": "/img/PRODUCT_img/BRAC-STAKE-01.jpg"
+    },
+    {
+        "id": 23,
+        "name": "BRAC STAKE 02",
+        "price": 44.000,
+        "img": "/img/PRODUCT_img/BRAC-STAKE-02jpg"
+    },
+    {
+        "id": 24,
+        "name": "PL BIZBOZ 02",
+        "price": 156.000,
+        "img": "/img/PRODUCT_img/PL-BIZBOZ-02.jpg"
+    },
+    {
+        "id": 25,
+        "name": "HT TROPIC",
+        "price": 103.200,
+        "img": "img/PRODUCT_img/HT-TROPIC-2.jpg"
+    },
+    {
+        "id": 26,
+        "name": "BRAC BREED",
+        "price": 44.000,
+        "img": "/img/PRODUCT_img/BRAC-BREED.jpg"
+    },
+    {
+        "id": 27,
+        "name": "PL SERVET 02",
+        "price": 195.000,
+        "img": "/img/PRODUCT_img/PL-SERVET-02.jpg"
+    },
+    {
+        "id": 28,
+        "name": "SW OBERNOS",
+        "price": 350.100,
+        "img": "/img/PRODUCT_img/SW-OBERNOS.jpg"
+    },
+    {
+        "id": 29,
+        "name": "PL CHILLEZ 02",
+        "price": 195.000,
+        "img": "/img/PRODUCT_img/PL-CHILLEZ-02.jpg"
+    },
+    {
+        "id": 30,
+        "name": "WATCHES LACTOS 2091",
+        "price": 292.000,
+        "img": "/img/PRODUCT_img/WATCHES-LACTOS-2091.jpg"
+    },
+    {
+        "id": 31,
+        "name": "KIETH 01",
+        "price": 337.500,
+        "img": "/img/PRODUCT_img/KIETH-01.jpg"
+    },
+    {
+        "id": 32,
+        "name": "GRANT 02",
+        "price": 337.500,
+        "img": "/img/PRODUCT_img/GRANT-02.jpg"
+    },
+    {
+        "id": 33,
+        "name": "GRANT 01",
+        "price": 337.500,
+        "img": "/img/PRODUCT_img/GRANT-01.jpg"
+    },
+    {
+        "id": 34,
+        "name": "HT VIZOR ACTV 02",
+        "price": 108.000,
+        "img": "/img/PRODUCT_img/HT-VIZOR-ACTV-01-2.jpg"
+    },
+    {
+        "id": 35,
+        "name": "ST NORD ACTV 02",
+        "price": 188.100,
+        "img": "/img/PRODUCT_img/ST-NORD-ACTV-02.jpg"
+    },
+    {
+        "id": 36,
+        "name": "ST NORD ACTV 01",
+        "price": 188.100,
+        "img": "/img/PRODUCT_img/ST-NORD-ACTV-01.jpg"
+    },
+    {
+        "id": 37,
+        "name": "ST BONEYARD 03",
+        "price": 134.100,
+        "img": "/img/PRODUCT_img/ST-BONEYARD-03.jpg"
+    },
+    {
+        "id": 38,
+        "name": "LP PHAETON 03",
+        "price": 335.000,
+        "img": "/img/PRODUCT_img/LP-PHAETON-03.jpg"
+    },
+    {
+        "id": 39,
+        "name": "LPK WELDNES",
+        "price": 143.100,
+        "img": "/img/PRODUCT_img/LPK-WELDNES.jpg"
+    },
+    {
+        "id": 40,
+        "name": "LP GRAHAM",
+        "price": 301.500,
+        "img": "/img/PRODUCT_img/LP-GRAHAM.jpg"
+    },
+    {
+        "id": 41,
+        "name": "PL CHILLEZ",
+        "price": 195.000,
+        "img": "/img/PRODUCT_img/PL-CHILLEZ.jpg"
+    },
+    {
+        "id": 42,
+        "name": "PL PLACE 03",
+        "price": 156.000,
+        "img": "./img/PRODUCT_img/PL-PLACE-03jpg"
+    },
+    {
+        "id": 43,
+        "name": "PL SATURATE",
+        "price": 195.000,
+        "img": "/img/PRODUCT_img/PL-SATURATE.jpg"
+    },
+    {
+        "id": 44,
+        "name": "PL SERVET",
+        "price": 156.000,
+        "img": "/img/PRODUCT_img/PL-SERVET.jpg"
+    },
+    {
+        "id": 45,
+        "name": "S EFRATT",
+        "price": 207.000,
+        "img": "./img/PRODUCT_img/S-EFRATTjpg"
+    },
+    {
+        "id": 46,
+        "name": "SW MIMIC ACTV",
+        "price": 356.000,
+        "img": "/img/PRODUCT_img/SW-MIMIC-ACTV.jpg"
+    },
+    {
+        "id": 47,
+        "name": "SW MIMIC ACTV 02",
+        "price": 356.000,
+        "img": "/img/PRODUCT_img/SW-MIMC-ACTV-02.jpg"
+    },
+    {
+        "id": 48,
+        "name": "SW MONOSPACED 02",
+        "price": 356.000,
+        "img": "/img/PRODUCT_img/SW-MONOSPACED-02.jpg"
+    },
+    {
+        "id": 49,
+        "name": "SW UNVEILSO 03",
+        "price": 356.000,
+        "img": "/img/PRODUCT_img/SW-UNVEILSO-03.jpg"
+    },
+    {
+        "id": 50,
+        "name": "SW SNUGO 02",
+        "price": 379.000,
+        "img": "/img/PRODUCT_img/SW-SNUGO-02.jpg"
+    },
+    {
+        "id": 51,
+        "name": "T GODZILLA TOOG",
+        "price": 156.000,
+        "img": "/img/PRODUCT_img/T-GODZILLA-TOOG.jpg"
+    },
+    {
+        "id": 52,
+        "name": "T PLAINT ACTVXDND",
+        "price": 170.000,
+        "img": "/img/PRODUCT_img/T-PLAINT-ACTVXDND.jpg"
+    },
+    {
+        "id": 53,
+        "name": "T WRAITHEZ 03",
+        "price": 170.000,
+        "img": "/img/PRODUCT_img/T-WRAITHEZ-03.jpg"
+    },
+    {
+        "id": 54,
+        "name": "T DUSK ACTV",
+        "price": 170.000,
+        "img": "/img/PRODUCT_img/T-DUSK-ACTV.jpg"
+    },
+    {
+        "id": 55,
+        "name": "T PRIMARE ACTV 02",
+        "price": 156.000,
+        "img": "/img/PRODUCT_img/T-PRIMARE-ACTV-02.jpg"
+    },
+    {
+        "id": 56,
+        "name": "T CROMICUS",
+        "price": 195.000,
+        "img": "/img/PRODUCT_img/T-CROMICUS.jpg"
+    },
+    {
+        "id": 57,
+        "name": "T COCIJO",
+        "price": 195.000,
+        "img": "/img/PRODUCT_img/T-COCIJO.jpg"
+    },
+    {
+        "id": 58,
+        "name": "T SABIAF",
+        "price": 195.000,
+        "img": "/img/PRODUCT_img/T-SABIAF.jpg"
+    }
+]

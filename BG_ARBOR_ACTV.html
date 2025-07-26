@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BAG | Blood Industries | Official Website</title>
+    <!-- BOOTSTRAP -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <!-- MY CONNECTIONS -->
+     <link rel="stylesheet" href="./CSS/SRSBloods.css">
+     <script src="./JS/SRSBloods.js"></script>
+</head>
+<body class="body">
+    <!-- Navbar-->
+    <nav class="navbar navbar-expand-lg bg-body-tertiary-light">
+        <div class="container-fluid">
+          <!-- HOME -->
+          <a class="navbar-brand text-white" href="Index.html" style="font-size: large; font-weight: bold;">HOME</a>
+
+
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <!-- MERCH -->
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle text-white" style="font-size: large; font-weight: bold;" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown">
+                    MERCH
+                </a>
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="PANTS.html">PANTS</a></li>
+                    <li><a class="dropdown-item" href="POLOSHIRT.html">POLO SHIRT</a></li>
+                    <li><a class="dropdown-item" href="SHIRT.html">SHIRT</a></li>
+                    <li><a class="dropdown-item" href="SHOES.html">SHOES</a></li>
+                    <li><a class="dropdown-item" href="SWEATER.html">SWEATER</a></li>
+                    <li><a class="dropdown-item" href="TSHIRT.html">TSHIRT</a></li>
+                    <li><hr class="dropdown-divider"></li>
+                    <li><a class="dropdown-item" href="Merch.html" >ALL MERCH</a></li>
+                </ul>
+              </li>            
+
+
+                <!-- LOGIN -->
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="Login.html" style="font-size: larger; font-weight: bold;">LOGIN</a>
+                </li>
+                <!-- CART -->
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="Cart.html" style="font-size: larger; font-weight: bold;">CART</a>
+                </li>
+                                <!-- MORE -->
+                  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle text-white" style="font-size: large; font-weight: bold;" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown">
+                    MORE
+                    </a>
+                  <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="Contacts.html">CONTACTS</a></li>
+                    <li><a class="dropdown-item" href="About.html">ABOUT</a></li>
+                    <li><hr class="dropdown-divider"></li>
+                    <li><a class="dropdown-item" href="Profile.html" >PROFILE</a></li>
+                  </ul>
+                </li> 
+
+
+
+                
+              </li>
+            </ul>
+            <form class="d-flex" role="search">
+              <input class="form-control me-2" type="search" placeholder="SEARCH" aria-label="Search">
+              <button class="btn bg-danger" style="font-size: large; font-weight: bold; color:#fff" type="submit">SEARCH</button>
+            </form>
+          </div>
+        </div>
+      </nav>
+
+      <!-- product -->
+      <div class="container my-5">
+        <div class="row">
+          <!-- Product Image -->
+          <div class="col-md-6 text-center">
+            <img src="./img/PRODUCT_img/BG-ARBOR-ACTV.jpg" alt="Short Pants" class="img-fluid" style="max-height: 500px;">
+          </div>
+      
+          <!-- Product Details -->
+          <div class="col-md-6">
+            <h3 class="fw-bold text-white">BG ARBOR ACTV</h3>
+            <h3 class="fw-bold"><span class="ms-2 text-white">Rp151.200</span></h3>
+      
+            <div class="mb-3">
+              <label class="form-label fw-bold text-white">SIZE</label>
+              <select class="form-select">
+                <option selected>Choose an option</option>
+                <option value="S">S</option>
+                <option value="M">M</option>
+                <option value="L">L</option>
+              </select>
+            </div>
+      
+            <div class="mb-4">
+              <label class="form-label fw-bold text-white">COLOR</label>
+              <select class="form-select">
+                <option selected>Choose an option</option>
+                <option value="Black">Olive</option>
+
+              </select>
+            </div>
+      
+            <button class="btn btn-danger w-100 fw-bold" onclick="addToCart(9)">ADD TO CART</button>
+      
+            <p><strong>Categories:</strong>BAG</p>
+            <a href="Merch.html" class="btn btn-secondary">Back to Products</a>
+          </div>
+        </div>
+    </div>
+      
+<script src="https://app.tudongchat.com/js/chatbox.js"></script>
+<script>
+  const tudong_chatbox = new TuDongChat('XDm-Ki1YUW1L2xvX8ig6P')
+  tudong_chatbox.initial()
+</script>
+
+
+</body>
+
+<footer class="bg-dark text-white text-center py-2 mt-5" style="font-size:x-large; font-weight: bold;">
+  <p>© 2025 SRS BLOODS</p>
+</footer>
+</html>
